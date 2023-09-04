@@ -19,4 +19,3 @@
       </footer>
   </body>
 </html>
-![Logo do GitHub](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png)
